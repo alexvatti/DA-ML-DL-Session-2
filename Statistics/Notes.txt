@@ -24,4 +24,52 @@ EDA Steps:
 10. Correlation
 11. Conversion of Categorical Variables
 12. Standardization and Normalization
- 
+
+
+
+1. Data Frame - Columns (Numerical):
+
+Descriptive Statistics:
+  1. mean
+  2. median
+  3. mode
+  4. variance (var)
+  5. standard deviation (std)
+  6. quartiles (25%, 50%, 75%)
+  7. interquartile range (IQR)
+  8. count
+  9. minimum (min)
+  10. maximum (max)
+  11. sorted values (both ascending and descending orders)
+Data Visualization:
+  1. Histogram
+  2. Histogram with KDE (Kernel Density Estimation)
+  3. Box Plot
+  4. Violin Plot
+Frequency Analysis:
+  1. Frequency distribution Table
+  2. Cumulative Frequency Table
+
+2. Data Frame - Columns (Categorical):
+Categories Analysis:
+  1. Categories
+  2. Values/Count
+  3. Order the Categories by Count in Ascending order/Descending order
+Data Visualization:
+  1. Bar Graph
+  2. Pie Graph
+Frequency Analysis:
+  1. Frequency Table
+  2. Relative Frequency Table
+
+3. Data Frame - Columns (Numerical vs Numerical):
+Data Visualization:
+  1. Scatter Plot
+  2. Pair Plots
+Correlation Analysis:
+  1. Correlation Coefficient (Positive or Negative)
+
+4. Data Frame - Columns (Categorical vs Numerical):
+Data Visualization:
+  1. Scatter Plot
+
