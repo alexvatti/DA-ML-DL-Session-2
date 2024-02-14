@@ -1,1 +1,27 @@
 
+Statistics:
+
+1.Uni-Variate Analysis
+  1.1 Categorical Variables
+  1.2 Numerical Variables
+2.Bi-Variate Analysis
+  2.1 Categorical vs Categorical Variables
+  2.2 Numerical vs Numerical Variables
+  2.3 Categorical vs Numerical Variables
+
+3. Statistics - Exploratory Data Analysis (EDA):
+EDA Steps:
+
+1. Import the Required Packages
+2. Read the Dataset
+3. Basic Inspection of DataFrame
+4. Missing Value Analysis
+5. Categorical Uni-Variate Analysis
+6. Numerical Uni-Variate Analysis
+7. Outliers Analysis
+8. Bi-Variate Analysis (three combinations)
+9. Data Transformation
+10. Correlation
+11. Conversion of Categorical Variables
+12. Standardization and Normalization
+ 
